@@ -1,5 +1,3 @@
-# FitRAG-RAG-Agent-
-FitRAG：基于 RAG 与 Agent 架构的智能减脂辅助系统，后端采用 FastAPI，结合 LangChain 与 FAISS 实现。
 # FitRAG
 
 🚀 **FitRAG 是一个基于 RAG 与 Agent 架构的智能减脂辅助系统，结合知识库问答与个性化方案生成，帮助用户科学制定饮食与训练计划。**
